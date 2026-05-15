@@ -23,7 +23,7 @@ while loop:
     
     kyes = pygame.key.get_pressed()
 
-    # Fixed Indentation here:
+    
     if kyes[pygame.K_a]: # Left
         circle_x -= vel
 
